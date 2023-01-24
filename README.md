@@ -1,4 +1,4 @@
-# Exp-7-Synchornous-counters-
+# Exp-6-Synchornous-counters-
 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 
